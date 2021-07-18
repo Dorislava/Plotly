@@ -1,6 +1,6 @@
-# Plotly (Belly Button Biodiversity Dashboard)
+## Plotly (Belly Button Biodiversity Dashboard)
 
-#Purpose
+## Purpose
 
 Create an interactive dashboard to present the top 10 bateria cultures by utilizing HTML and  JavaScript's Plotly and D3 libraries. 
 
